@@ -10,3 +10,10 @@
 머리를 조아려야겠다 -LML-
 <img width="374" height="234" alt="image" src="https://github.com/user-attachments/assets/97211bb7-573f-4e16-af7e-d8a135d11ea7" />
 벌꿀오소리는 엎드리지 않아!!
+
+
+```
+.　　∩_∩
+　 ∧∧　 |
+⊂(_ _⊂ノ　
+```
